@@ -18,7 +18,7 @@ This project analyzes Zomato sales and order data to uncover actionable insights
 
 ## Tools & Technologies
 - **Excel**: Data cleaning, preprocessing, pivot tables, charts
-- **SQL**: Data querying, aggregations, joins, KPI and percentage calculations
+- **SQL**: Data querying, aggregations, joins, KPI and percentage calculations 
 - **Power BI**: Data modeling, KPI visualization, interactive dashboards
 - **Tableau**: Advanced visualizations, trend analysis, and comparative insights
 
