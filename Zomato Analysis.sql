@@ -5,7 +5,7 @@ Select * from main;
 #KPIs
 Select concat(Round(Sum(Indian_Price)/1000000,2), "M") as Total_Sales_in_Rupee from main;
 
-Select count(distinct Restaurant_ID) as Total_Restaurants from main; 
+Select count(distinct Restaurant_ID) as Total_Restaurants from main;
 
 Select sum(Votes) as Total_Votes from main;
 
