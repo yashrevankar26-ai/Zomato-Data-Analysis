@@ -10,7 +10,7 @@ This project analyzes Zomato sales and order data to uncover actionable insights
 
 ## Objectives
 - Analyze order trends, revenue growth, and customer demand patterns. 
-- Identify peak ordering hours and high-demand periods. 
+- Identify peak ordering hours and high-demand periods.
 - Evaluate restaurant and cuisine performance. 
 - Measure contribution of top-performing entities to total revenue.
 - Build interactive dashboards for quick and effective business analysis.
