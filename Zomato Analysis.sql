@@ -1,6 +1,6 @@
 Create database Zomato_Data;
 use Zomato_Data;
-Select * from main; 
+Select * from main;
 
 #KPIs
 Select concat(Round(Sum(Indian_Price)/1000000,2), "M") as Total_Sales_in_Rupee from main;
