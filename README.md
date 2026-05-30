@@ -9,7 +9,7 @@ Driving food delivery growth with data-driven insights! 🍽️📊 This project
 This project analyzes Zomato sales and order data to uncover actionable insights into customer behavior, restaurant performance, and revenue trends. Interactive dashboards were created to support data-driven decision-making for business growth.
 
 ## Objectives
-- Analyze order trends, revenue growth, and customer demand patterns. 
+- Analyze order trends, revenue growth, and customer demand patterns.
 - Identify peak ordering hours and high-demand periods.
 - Evaluate restaurant and cuisine performance. 
 - Measure contribution of top-performing entities to total revenue.
