@@ -9,7 +9,7 @@ Select count(distinct Restaurant_ID) as Total_Restaurants from main;
 
 Select sum(Votes) as Total_Votes from main;
 
-Select count(distinct city) as Total_Cities from main;
+Select count(distinct city) as Total_Cities from main; 
 
 Select count(distinct Country_Name) as Total_Country from country;
 
