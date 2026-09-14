@@ -1,5 +1,5 @@
 Create database Zomato_Data;
-use Zomato_Data;
+use Zomato_Data; 
 Select * from main; 
 
 #KPIs
